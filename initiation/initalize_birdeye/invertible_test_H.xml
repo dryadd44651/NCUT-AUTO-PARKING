@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<invertible_test_H type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    9.70992029e-001 3.01956987e+000 -3.98163422e+002 0. 6.00219584e+000
+    -8.35804749e+002 0. 9.58767254e-003 -3.35081756e-001</data></invertible_test_H>
+</opencv_storage>
